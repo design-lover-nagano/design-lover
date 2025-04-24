@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Design Lover</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; background: #f5f5f5; color: #333; }
+    header, footer { background: #20232a; color: white; padding: 1rem; text-align: center; }
+    main { padding: 2rem; max-width: 800px; margin: auto; }
+    h1 { color: #d63384; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Design Lover</h1>
+    <p>機械設計 × センス × 信頼性</p>
+  </header>
+  <main>
+    <h2>サービス内容</h2>
+    <ul>
+      <li>3Dモデリング（SolidWorks / Fusion 360）</li>
+      <li>部品図・組立図作成</li>
+      <li>製品リデザイン</li>
+    </ul>
+
+    <h2>お問い合わせ</h2>
+    <p>📧 example@email.com</p>
+    <p>📞 000-0000-0000</p>
+  </main>
+  <footer>
+    © 2025 Design Lover
+  </footer>
+</body>
+</html>
